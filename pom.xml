@@ -2,19 +2,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.google</groupId>
-  <artifactId>Web-project-practice</artifactId>
+  <artifactId>goibibo_app</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Web-project-practice Maven Webapp</name>
+  <name>goibibo_app Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
   
-  <!-- https://mvnrepository.com/artifact/org.apache.xbean/xbean-spring -->
-<dependency>
-    <groupId>org.apache.xbean</groupId>
-    <artifactId>xbean-spring</artifactId>
-    <version>3.18</version>
-</dependency>
 	
 
     <dependency>
@@ -25,6 +19,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Web-project-practice</finalName>
+    <finalName>goibibo_app</finalName>
   </build>
 </project>
